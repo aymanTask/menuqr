@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Jul 2021 13:36:05 at https://qr.tabpadmenu.com/landing?zoneid=fXftayc0623eb2-1662-4362-b43e-1cb310d460cc +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://qr.tabpadmenu.com/landing?zoneid=fXftayc0623eb2-1662-4362-b43e-1cb310d460cc -O1 "C:\Users\REDA\Desktop\vpnext\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:36:16	Error: 	"Not Found" (404) at link https://qr.tabpadmenu.com/assets/desktop-landing/fonts/Dolce Vita.ttf (from https://qr.tabpadmenu.com/landing?zoneid=fXftayc0623eb2-1662-4362-b43e-1cb310d460cc)
+13:36:42	Error: 	"Not Found" (404) at link https://qr.tabpadmenu.com/assets/desktop-landing/images/shop-home.jpg (from https://qr.tabpadmenu.com/assets/desktop-landing/main.css)
+13:36:42	Error: 	"Not Found" (404) at link https://qr.tabpadmenu.com/assets/desktop-landing/images/bg-header.jpg (from https://qr.tabpadmenu.com/assets/desktop-landing/main.css)
+13:36:42	Error: 	"Not Found" (404) at link https://qr.tabpadmenu.com/assets/desktop-landing/images/notfound.png (from https://qr.tabpadmenu.com/assets/desktop-landing/main.css)
+13:36:48	Error: 	"Not Found" (404) at link https://panel.tabpadmenu.com/ipad/20/set/Info.jpg (from https://qr.tabpadmenu.com/?zoneid=fXftayc0623eb2-1662-4362-b43e-1cb310d460cc&mobile=true)
+13:36:48	Error: 	"Not Found" (404) at link https://unpkg.com/@google/model-viewer@1.7.2/dist/model-viewer-legacy.js (from https://qr.tabpadmenu.com/?zoneid=fXftayc0623eb2-1662-4362-b43e-1cb310d460cc&mobile=true)
+13:36:51	Error: 	"Not Found" (404) at link https://qr.tabpadmenu.com/assets/images/owl.video.play.png (from https://qr.tabpadmenu.com/assets/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 52 links scanned, 44 files written (4339133 bytes overall) [1979440 bytes received at 43031 bytes/sec], 3050939 bytes transferred using HTTP compression in 30 files, ratio 21%, 1.1 requests per connection
+(7 errors, 0 warnings, 0 messages)

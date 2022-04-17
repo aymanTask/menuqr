@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+qr.tabpadmenu.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	3lckosjwrtkbwjqy4j241pvy
+qr.tabpadmenu.com	TRUE	/	FALSE	1999999999	IS_TABLE_ORDER	false
+
